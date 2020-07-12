@@ -18,3 +18,5 @@ jobs:
                zulip/zulip
                zulip/zulip-mobile
                zulip/zulip-terminal
+               go-gitea/gitea
+               RocketChat/Rocket.Chat
