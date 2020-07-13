@@ -25,3 +25,5 @@ jobs:
                NixOS/nixpkgs
                haskell/cabal
                isaacs/github
+               vector-im/riot-web
+               matrix-org/synapse
