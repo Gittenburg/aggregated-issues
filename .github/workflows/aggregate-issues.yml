@@ -24,3 +24,4 @@ jobs:
                ytdl-org/youtube-dl
                NixOS/nixpkgs
                haskell/cabal
+               isaacs/github
