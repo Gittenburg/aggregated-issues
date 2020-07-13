@@ -22,3 +22,5 @@ jobs:
                RocketChat/Rocket.Chat
                Microsoft/vscode
                ytdl-org/youtube-dl
+               NixOS/nixpkgs
+               haskell/cabal
