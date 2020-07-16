@@ -15,15 +15,16 @@ jobs:
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
         repos: |
+               go-gitea/gitea
+               haskell/cabal
+               isaacs/github
+               matrix-org/synapse
+               microsoft/typescript
+               microsoft/vscode
+               nixos/nixpkgs
+               rocketchat/rocket.chat
+               vector-im/riot-web
+               ytdl-org/youtube-dl
                zulip/zulip
                zulip/zulip-mobile
                zulip/zulip-terminal
-               go-gitea/gitea
-               RocketChat/Rocket.Chat
-               Microsoft/vscode
-               ytdl-org/youtube-dl
-               NixOS/nixpkgs
-               haskell/cabal
-               isaacs/github
-               vector-im/riot-web
-               matrix-org/synapse
