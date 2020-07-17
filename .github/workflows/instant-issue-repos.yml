@@ -1,0 +1,24 @@
+- name: zulip/zulip
+  disjointLabels: [bug, UX, new feature]
+- name: zulip/zulip-terminal
+- name: zulip/zulip-mobile
+
+- name: rocketchat/rocket.chat
+  disjointLabels: [type: bug, Feature: Planned, Feature: Request]
+
+- name: vector-im/riot-web
+  disjointLabels: [bug]
+
+- name: go-gitea/gitea
+  disjointLabels: [kind/bug, kind/feature]
+
+- name: haskell/cabal
+- name: isaacs/github
+- name: matrix-org/synapse
+  disjointLabels: [bug]
+
+- name: microsoft/typescript
+- name: microsoft/vscode
+  disjointLabels: [bug, feature-request]
+- name: nixos/nixpkgs
+- name: ytdl-org/youtube-dl

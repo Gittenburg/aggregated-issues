@@ -14,17 +14,3 @@ jobs:
     - uses: instant-issues/action@master
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        repos: |
-               go-gitea/gitea
-               haskell/cabal
-               isaacs/github
-               matrix-org/synapse
-               microsoft/typescript
-               microsoft/vscode
-               nixos/nixpkgs
-               rocketchat/rocket.chat
-               vector-im/riot-web
-               ytdl-org/youtube-dl
-               zulip/zulip
-               zulip/zulip-mobile
-               zulip/zulip-terminal
